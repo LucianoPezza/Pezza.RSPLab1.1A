@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1596032679 source:c:\users\luciano\desktop\recuperatorio 2do parcial\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+	"LinkedList.h"
+	"Parser.h"
+	"Bicicleta.h"
+	"Validaciones.h"
+
+1595787820 source:c:\users\luciano\desktop\recuperatorio 2do parcial\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1595777028 c:\users\luciano\desktop\recuperatorio 2do parcial\linkedlist.h
+
+1593606895 source:c:\users\luciano\desktop\recuperatorio 2do parcial\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"Validaciones.h"
+
+1593606897 c:\users\luciano\desktop\recuperatorio 2do parcial\validaciones.h
+
+1596031832 source:c:\users\luciano\desktop\recuperatorio 2do parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Validaciones.h"
+	"Bicicleta.h"
+	<time.h>
+
+1596026589 c:\users\luciano\desktop\recuperatorio 2do parcial\controller.h
+
+1596031150 c:\users\luciano\desktop\recuperatorio 2do parcial\bicicleta.h
+
+1596026393 source:c:\users\luciano\desktop\recuperatorio 2do parcial\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Bicicleta.h"
+
+1596032398 source:c:\users\luciano\desktop\recuperatorio 2do parcial\bicicleta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Bicicleta.h"
+	"Validaciones.h"
+
+1596026393 c:\users\luciano\desktop\recuperatorio 2do parcial\parser.h
+
